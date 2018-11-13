@@ -17,8 +17,9 @@ data:extend(
 		energy_required = 0.5,
 		ingredients =
 		{
-			{basePrototypes.item["pipe-to-ground"].name, settings.startup["high-pressure-multiplier"].value},
+			{basePrototypes.item["pipe-to-ground"].name, settings.startup["high-pressure-multiplier"].value * 2},
 		},
+		result_count = 2,
 		result = "high-pressure-pipe-to-ground",
 		enabled = false,
 	},
