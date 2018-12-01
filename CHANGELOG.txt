@@ -1,2 +1,0 @@
-v1.0.1
-- Pipe-to-ground recipe produces 2 pipes

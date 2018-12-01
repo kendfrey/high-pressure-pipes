@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------
+Version: 99.99.999
+Date: 1. 1. 9999
+  New Features:
+    - Added settings for changing the pipe colour.
+  Bugfixes:
+    - Fixed items using icon property instead of tinted icons.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 13. 11. 2018
+  Changes:
+    - Pipe-to-ground recipe produces 2 pipes.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 19. 5. 2018
+  New Features:
+    - High-pressure pipe for higher flow rate.
+    - High-pressure pump for pressurizing the pipes.
+    - Technology to unlock the pipes and pumps.
+    - Integration with bob's mods.
