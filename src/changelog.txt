@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 99.99.999
-Date: 1. 1. 9999
+Version: 1.0.2
+Date: 30. 11. 2018
   New Features:
     - Added settings for changing the pipe colour.
   Bugfixes:
