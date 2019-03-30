@@ -30,10 +30,9 @@ data:extend(
 			count = 100,
 			ingredients =
 			{
-				{"science-pack-1", 1},
-				{"science-pack-2", 1},
-				{"science-pack-3", 1},
-				{"high-tech-science-pack", 1},
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1},
+				{"chemical-science-pack", 1},
 			},
 		},
 		order = basePrototypes.technology["fluid-handling"].order .. "a",
@@ -41,6 +40,6 @@ data:extend(
 }
 );
 
-if data.raw.tool["logistic-science-pack"] then
-	table.insert(data.raw.technology["high-pressure-fluid-handling"].unit.ingredients, {"logistic-science-pack", 1});
+if data.raw.tool["advanced-logistic-science-pack"] then
+	table.insert(data.raw.technology["high-pressure-fluid-handling"].unit.ingredients, {"advanced-logistic-science-pack", 1});
 end
