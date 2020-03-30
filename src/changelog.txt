@@ -3,7 +3,6 @@ Version: 1.0.4
 Date: 30. 03. 2020
   Changes:
     - Updated for Factorio Version 0.18.0
-    - Technology updated to new science pack recipe names.
     - Recipe updated to add new bobplates alloy.
 
 ---------------------------------------------------------------------------------------------------
