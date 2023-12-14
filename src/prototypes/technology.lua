@@ -3,7 +3,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "high-pressure-fluid-handling",
-		icons = {{icon = basePrototypes.technology["fluid-handling"].icon, tint = highPressureTint, icon_size = 128}},
+		icons = {{icon = basePrototypes.technology["fluid-handling"].icon, tint = highPressureTint, icon_size = basePrototypes.technology["fluid-handling"].icon_size}},
 		prerequisites =
 		{
 			basePrototypes.technology["fluid-handling"].name,
